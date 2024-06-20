@@ -1,0 +1,7 @@
+pytrends
+requests
+boto3
+jupyterlab
+scikit-learn
+matplotlib
+pandas
